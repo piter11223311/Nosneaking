@@ -17,6 +17,6 @@ public final class Main extends JavaPlugin implements Listener {
     @Override
     public void onDisable() {
         System.out.println("Plugin NoSneak disabled successfully");
-        System.out.println("When will we met again? :<");
+        System.out.println("When will we meet again? :<");
     }
 }
