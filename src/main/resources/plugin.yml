@@ -1,0 +1,6 @@
+name: Nosneaking
+version: '${project.version}'
+main: piter11223311.nosneaking.Main
+api-version: 1.18
+prefix: (NotSneaking)
+description: Plugin for no sneaking
